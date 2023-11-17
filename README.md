@@ -72,3 +72,4 @@ current = 1
 coil = create_coil(n_turns, radius, current)
 
 print(coil)
+.
